@@ -10,6 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Mindfulness",
     "Psychometrics",
     "Biostatistics",
     "Data science"
@@ -30,7 +31,7 @@ weight = 5
   course = "Bachelor of Arts (Psychology)"
   institution = "University of Queensland"
   year = 2000
- 
+
 +++
 
 # Biography

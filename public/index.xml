@@ -11,7 +11,17 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Talk</title>
+      <title>Suicide/self-harm-risk reducing effects of an Aboriginal Art program for Aboriginal prisoners</title>
+      <link>/publication/suicide_self_harm_aboriginal/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +1100</pubDate>
+      
+      <guid>/publication/suicide_self_harm_aboriginal/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Funnel plots and statistical process control methods to monitor excess Unplanned Return to Theatre (URTT) following colorectal surgery.</title>
       <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
       
@@ -236,11 +246,11 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +1000</pubDate>
+      <title>A feasibility study of Mindfulness-based Cognitive Therapy (MBCT) for foreign nationals living in Japan</title>
+      <link>/publication/mbct_japan/</link>
+      <pubDate>Thu, 27 Aug 2015 00:00:00 +1000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
+      <guid>/publication/mbct_japan/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
@@ -290,16 +300,6 @@ Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +1000</pubDate>
-      
-      <guid>/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
