@@ -9,14 +9,14 @@ title = "External Project"
 summary = "An example of linking directly to an external project website using `external_link`."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "boards.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = [""]
+tags = ["demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://example.org"
 
 # Does the project detail page use math formatting?
 math = false
