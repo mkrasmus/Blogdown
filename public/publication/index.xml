@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Michael Rasmussen</title>
+    <title>Publications on Michael K Rasmussen</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Michael Rasmussen</description>
+    <description>Recent content in Publications on Michael K Rasmussen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,6 +18,15 @@
       <pubDate>Tue, 02 Jan 2018 00:00:00 +1100</pubDate>
       
       <guid>/publication/suicide_self_harm_aboriginal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring excess unplanned return to theatre following colorectal cancer surgery</title>
+      <link>/publication/asc_bcca_2017/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/asc_bcca_2017/</guid>
       <description></description>
     </item>
     

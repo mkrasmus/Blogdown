@@ -6,7 +6,7 @@
 baseurl = "http://www.racsanalytics.com/"
 
 # Title of your site
-title = "Michael Rasmussen"
+title = "Michael K Rasmussen"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -65,10 +65,10 @@ enableGitInfo = false
   avatar = "mkrasmus.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mkrasmus@gmail.com"
   address = "Royal Australasian College of Surgeons, 250 - 290 Spring Street, East Melbourne VIC 3002, Australia"
-  office_hours = ""
-  phone = "+61 3 9276 7449"
-  skype = ""
-  telegram = ""
+  #office_hours = ""
+  #phone = "+61 3 9276 7449"
+  #skype = ""
+  #telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -271,12 +271,6 @@ enableGitInfo = false
   name = "Contact"
   url = "#contact"
   weight = 4
-
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.

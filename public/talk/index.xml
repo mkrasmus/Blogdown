@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Michael Rasmussen</title>
+    <title>Recent &amp; Upcoming Talks on Michael K Rasmussen</title>
     <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Michael Rasmussen</description>
+    <description>Recent content in Recent &amp; Upcoming Talks on Michael K Rasmussen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,12 +13,39 @@
     
     
     <item>
-      <title>Funnel plots and statistical process control methods to monitor excess Unplanned Return to Theatre (URTT) following colorectal surgery.</title>
-      <link>/talk/example-talk/</link>
+      <title>Assessing gender effects in surgical education and training outcomes</title>
+      <link>/talk/gender_efects_in_training_outcomes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/gender_efects_in_training_outcomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive utility of selection tools into Surgical Education and Training (SET) in Australia and New Zealand</title>
+      <link>/talk/predictive_validity_selection_tools_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/predictive_validity_selection_tools_2018/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Using ShinyR to present post-exam IRT item analytics to medical educators and improve exam quality</title>
+      <link>/talk/using_shinyr_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/using_shinyr_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing examiner marking styles on the Clinical Exam</title>
+      <link>/talk/examiner_marking_ottawa_2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
       
-      <guid>/talk/example-talk/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/talk/examiner_marking_ottawa_2016/</guid>
+      <description></description>
     </item>
     
   </channel>

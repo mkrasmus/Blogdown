@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michael Rasmussen on Michael Rasmussen</title>
+    <title>Michael K Rasmussen on Michael K Rasmussen</title>
     <link>/</link>
-    <description>Recent content in Michael Rasmussen on Michael Rasmussen</description>
+    <description>Recent content in Michael K Rasmussen on Michael K Rasmussen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -20,12 +20,60 @@
     </item>
     
     <item>
-      <title>Funnel plots and statistical process control methods to monitor excess Unplanned Return to Theatre (URTT) following colorectal surgery.</title>
-      <link>/talk/example-talk/</link>
+      <title>Assessing gender effects in surgical education and training outcomes</title>
+      <link>/talk/gender_efects_in_training_outcomes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/gender_efects_in_training_outcomes/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/gender_spaghetti_interview.png&#34; alt=&#34;ShinyR&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictive utility of selection tools into Surgical Education and Training (SET) in Australia and New Zealand</title>
+      <link>/talk/predictive_validity_selection_tools_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/predictive_validity_selection_tools_2018/</guid>
+      <description>
+
+
+
+
+  
+
+&lt;video controls &gt;
+  &lt;source src=&#34;/img/selection_predict_ce.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using ShinyR to present post-exam IRT item analytics to medical educators and improve exam quality</title>
+      <link>/talk/using_shinyr_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/using_shinyr_2018/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/OSCE_results_RACS_Michael_Rasmussen_reduced.png&#34; alt=&#34;ShinyR&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monitoring excess unplanned return to theatre following colorectal cancer surgery</title>
+      <link>/publication/asc_bcca_2017/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/asc_bcca_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing examiner marking styles on the Clinical Exam</title>
+      <link>/talk/examiner_marking_ottawa_2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
       
-      <guid>/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>/talk/examiner_marking_ottawa_2016/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/hawks_n_doves.png&#34; alt=&#34;SPSS&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
