@@ -21,7 +21,7 @@ publication = "In *Advances in Mental Health: Promotion, Prevention and Early In
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Mindfulness-Based Cognitive Therapy (MBCT) was developed as a therapeutic intervention for patients at risk of depression relapse. In recent years it has evolved as an effective therapy for a range of mental health concerns. The present study investigated the potential benefits of MBCT for English speaking foreigners living in Japan. Participants (n=18) completed the Five Factors Mindfulness Questionnaire (FFMQ), Depression, Anxiety and Stress Scale-21-item version (DASS-21) and the Positive Affect Negative Affect Schedule (PANAS) before and after the 8-week MBCT program. Participants reported a significant increase in mindfulness, reductions in depression, anxiety and stress levels as well as decreased negative affect. However, an increase in average positive affect scores was found to be non-significant. Acceptability of MBCT for foreign nationals living in Japan was demonstrated in participant feedback and this study lends some initial support for delivering MBCT as a preventative intervention for foreigners experiencing emotional distress in Japan."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "DOI", url = "https://doi.org/10.1080/18387357.2015.1074777"}]
+url_custom = [{name = "Journal link", url = "https://doi.org/10.1080/18387357.2015.1074777"}]
 
 # Does the content use math formatting?
 math = true
@@ -63,5 +63,3 @@ image = ""
 caption = ""
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
