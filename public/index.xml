@@ -11,6 +11,21 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Publish (a website) or Perish</title>
+      <link>/post/publish-or-perish/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/publish-or-perish/</guid>
+      <description>&lt;p&gt;For my first post I&amp;rsquo;d like to encourage other R users to develop their own static websites using the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;blogdown&lt;/a&gt; package.&lt;/p&gt;
+
+&lt;p&gt;Feel free to use the code I&amp;rsquo;ve developed &lt;a href=&#34;https://github.com/mkrasmus/Blogdown-MichaelRasmussen&#34; target=&#34;_blank&#34;&gt;on my github account&lt;/a&gt;, but consider some better examples, including &lt;a href=&#34;https://alison.rbind.io/&#34; target=&#34;_blank&#34;&gt;Dr Hill&amp;rsquo;s&lt;/a&gt; and &lt;a href=&#34;https://www.choyang.me/en/&#34; target=&#34;_blank&#34;&gt;Dr Cho Yang&amp;rsquo;s&lt;/a&gt; websites using the same &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34; target=&#34;_blank&#34;&gt;academic&lt;/a&gt; framework. &lt;/p&gt;
+
+&lt;p&gt;Register with &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; and install &lt;a href=&#34;https://gitforwindows.org/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; to version control and then deploy your website using &lt;a href=&#34;https://app.netlify.com/&#34; target=&#34;_blank&#34;&gt;Netlify&lt;/a&gt;. Follow &lt;a href=&#34;https://alison.rbind.io/&#34; target=&#34;_blank&#34;&gt;Dr Hill&amp;rsquo;s&lt;/a&gt; recommendation for a free domain name with Github. I&amp;rsquo;ve decided to use a &lt;a href=&#34;au.godaddy.com&#34; target=&#34;_blank&#34;&gt;godaddy&lt;/a&gt; account for a very small fee.&lt;/p&gt;
+
+&lt;p&gt;Showcase your publications or methods that would otherwise not see the light of day!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Suicide/self-harm-risk reducing effects of an Aboriginal Art program for Aboriginal prisoners</title>
       <link>/publication/suicide_self_harm_aboriginal/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +1100</pubDate>
