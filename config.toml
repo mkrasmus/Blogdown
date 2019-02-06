@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Australian Health Practitioner Regulation Authority", url = "https://www.ahpra.gov.au/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "mkrasmus.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "mkrasmus.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mkrasmus@gmail.com"
   address = "Australian Health Practitioner Regulation Authority, 111 Bourke St, Melbourne VIC 3000, Australia"
   #office_hours = ""
