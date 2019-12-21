@@ -59,12 +59,12 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Australian Health Practitioner Regulation Authority", url = "https://www.ahpra.gov.au/" } ]
+  organizations = [ { name = "Australian Health Practitioner Regulation Agency", url = "https://www.ahpra.gov.au/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "mkrasmus.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mkrasmus@gmail.com"
-  address = "Australian Health Practitioner Regulation Authority, 111 Bourke St, Melbourne VIC 3000, Australia"
+  address = "Australian Health Practitioner Regulation Agency, 111 Bourke St, Melbourne VIC 3000, Australia"
   #office_hours = ""
   #phone = "+61 3 9276 7449"
   #skype = ""
